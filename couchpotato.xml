@@ -13,6 +13,10 @@ CouchPotato (CP) is an automatic NZB and torrent downloader. You can keep a "mov
 <Icon>https://pbs.twimg.com/profile_images/1312317578/square.png</Icon>
 <Project>https://couchpota.to/</Project>
 <Changes>
+2016.01.22.1
+------------
+- Fixed error returning to /root when git cloning the install files
+
 2015.11.04.1
 ------------
 - Fixed jQuery to check if loaded before loading itself in, this fixes stuck loader icon on settings page

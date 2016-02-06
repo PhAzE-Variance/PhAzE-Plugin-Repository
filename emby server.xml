@@ -13,7 +13,16 @@ Emby Server is a home media server built on top of other popular open source tec
 <Icon>https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/master/images/Logos/logoicon.png</Icon>
 <Project>https://emby.media/</Project>
 <Changes>
-2015.11.25.1
+2016.01.23.1
+------------
+- Updated version check to use latest version tag from git preventing accidentally getting beta or dev versions
+
+2016.01.22.1
+------------
+- Removed BETA option as they no longer provide precompiled beta releases, only stable releases now
+- Updated version check URL and download URL to new github layout they have provided
+
+2015.12.23.1
 ------------
 - Fixed FFMPEG to use plugin version rather than Emby supplied version to fix video playback
 

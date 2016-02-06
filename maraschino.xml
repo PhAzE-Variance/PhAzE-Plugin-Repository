@@ -13,6 +13,10 @@ a simple web interface to act as a nice overview/front page for my XBMC HTPC.
 <Icon>http://www.maraschinoproject.com/static/images/maraschino_logo_large.png</Icon>
 <Project>http://www.maraschinoproject.com/</Project>
 <Changes>
+2016.01.22.1
+------------
+- Fixed error returning to /root when git cloning the install files
+
 2015.11.04.1
 ------------
 - Fixed jQuery to check if loaded before loading itself in, this fixes stuck loader icon on settings page

@@ -13,7 +13,7 @@ The Plex Media Server enriches your life by organizing all your personal media, 
 <Icon>http://www.macupdate.com/images/icons256/42311.png</Icon>
 <Project>https://plex.tv/</Project>
 <Changes>
-2015.11.04.1
+2015.11.16.2
 ------------
 - Fixed password which was saving the surrounding single quotes when passed from the web GUI
 

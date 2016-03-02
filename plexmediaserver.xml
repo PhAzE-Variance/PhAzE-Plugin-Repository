@@ -13,6 +13,11 @@ The Plex Media Server enriches your life by organizing all your personal media, 
 <Icon>http://www.macupdate.com/images/icons256/42311.png</Icon>
 <Project>https://plex.tv/</Project>
 <Changes>
+2016.03.02.1
+------------
+- Updated login method to use URL encoding
+- Updated php script to pass vars URL encoded also, this should help with complex passwords
+
 2015.11.16.2
 ------------
 - Fixed password which was saving the surrounding single quotes when passed from the web GUI

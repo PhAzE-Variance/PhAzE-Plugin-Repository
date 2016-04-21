@@ -13,6 +13,11 @@ FileBot is a media file organizer. Drop files into the input directory, and they
 <Icon>http://www.filebot.net/images/filebot.logo.png</Icon>
 <Project>http://www.filebot.net/</Project>
 <Changes>
+2016.04.20.1
+------------
+- Updated POST to use urlencode and urldecode
+- Updated shortcut script to skip sudo if user does not have sudo access
+
 2015.11.04.1
 ------------
 - Fixed jQuery to check if loaded before loading itself in, this fixes stuck loader icon on settings page

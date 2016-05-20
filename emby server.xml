@@ -13,6 +13,15 @@ Emby Server is a home media server built on top of other popular open source tec
 <Icon>https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/master/images/Logos/logoicon.png</Icon>
 <Project>https://emby.media/</Project>
 <Changes>
+2016.04.21.1
+------------
+- Added missing dependency for mediainfo for Unraid 6.2 beta
+
+2016.04.21.1
+------------
+- Updated Mono to version 4.2.3.4
+- Updated POST to use urlencode and urldecode
+
 2016.01.23.1
 ------------
 - Updated version check to use latest version tag from git preventing accidentally getting beta or dev versions

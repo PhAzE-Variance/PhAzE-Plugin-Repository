@@ -13,6 +13,14 @@ The Plex Media Server enriches your life by organizing all your personal media, 
 <Icon>http://www.macupdate.com/images/icons256/42311.png</Icon>
 <Project>https://plex.tv/</Project>
 <Changes>
+2016.05.20.1
+------------
+- found missing equals sign on use custom port sync back
+
+2016.05.02.1
+------------
+- Removed URL encode/decode which was breaking settings from saving
+
 2016.03.02.1
 ------------
 - Updated login method to use URL encoding

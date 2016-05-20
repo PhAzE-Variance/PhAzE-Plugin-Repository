@@ -13,6 +13,10 @@ FileBot is a media file organizer. Drop files into the input directory, and they
 <Icon>http://www.filebot.net/images/filebot.logo.png</Icon>
 <Project>http://www.filebot.net/</Project>
 <Changes>
+2016.05.03.1
+------------
+- Removed url encode and decode as they broke settings page
+
 2016.04.20.1
 ------------
 - Updated POST to use urlencode and urldecode

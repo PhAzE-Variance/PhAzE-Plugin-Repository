@@ -12,6 +12,10 @@ BitTorrent Sync, or simply - Sync - is an application for data synchronization. 
 <Icon>http://i.i.cbsi.com/cnwk.1d/i/tim/2013/04/23/BitTorrentSyncIconX.png</Icon>
 <Project>https://www.getsync.com/</Project>
 <Changes>
+2016.06.14.1
+------------
+- Changed wget commands to curl since the app's website disabled SSLv3 and wget on Unraid was not compatible
+
 2015.11.04.1
 ------------
 - Fixed jQuery to check if loaded before loading itself in, this fixes stuck loader icon on settings page

@@ -16,6 +16,7 @@ Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users. It can moni
 2016.06.16.1
 ------------
 - Added SASL dependency for MediaInfo on Unraid 6.2 Beta
+- Added libx11, libxcb, libxau, libxdmcp dependencies
 
 2016.05.03.1
 ------------

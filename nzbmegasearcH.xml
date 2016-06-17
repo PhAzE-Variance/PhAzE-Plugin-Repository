@@ -15,6 +15,10 @@ NZBmegasearcH collects all your (not only) newznab-based accounts to one place. 
 <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/nzbmegasearch-icon.png</Icon>
 <Project>https://github.com/pillone/usntssearch/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

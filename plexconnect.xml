@@ -13,6 +13,10 @@ PlexConnect
 <Icon>http://cd8ba0b44a15c10065fd-24461f391e20b7336331d5789078af53.r23.cf1.rackcdn.com/plex.vanillacommunity.com/ipb/monthly_06_2013/post-93513-0-31693500-1371587555.png</Icon>
 <Project>https://github.com/iBaa/PlexConnect</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

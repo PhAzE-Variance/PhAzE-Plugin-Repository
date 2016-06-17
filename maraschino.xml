@@ -13,6 +13,10 @@ a simple web interface to act as a nice overview/front page for my XBMC HTPC.
 <Icon>http://www.maraschinoproject.com/static/images/maraschino_logo_large.png</Icon>
 <Project>http://www.maraschinoproject.com/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

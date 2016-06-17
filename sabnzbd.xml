@@ -13,6 +13,10 @@ SABnzbd makes Usenet as simple and streamlined as possible by automating everyth
 <Icon>https://lh6.googleusercontent.com/jsz4zVFTJuMP-Ct803I774I-qo5vXVGQBTVZJD6xmCvQDD3UWpyRaDK6_DX0kQJakI-lX20xsA=s128-h128-e365</Icon>
 <Project>http://sabnzbd.org/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Added missing dependency for Unraid 6.2 Beta
+
 2016.04.19.1
 ------------
 - Updated URL for download and new version check to use github instead of sourceforge

@@ -13,6 +13,10 @@ Transmission is designed for easy, powerful use. Transmission has the features y
 <Icon>http://i.imgur.com/tkCKanM.png</Icon>
 <Project>http://www.transmissionbt.com/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Added missing depenendcy SASL for Unraid 6.2 beta
+
 2015.11.04.1
 ------------
 - Fixed jQuery to check if loaded before loading itself in, this fixes stuck loader icon on settings page

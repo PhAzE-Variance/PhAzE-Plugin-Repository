@@ -13,6 +13,10 @@ Headphones is an automated music downloader for NZB and Torrent, written in Pyth
 <Icon>https://raw.githubusercontent.com/rembo10/headphones/master/data/images/headphoneslogo.png</Icon>
 <Project>https://github.com/rembo10/headphones</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

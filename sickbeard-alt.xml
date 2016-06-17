@@ -13,6 +13,10 @@ Sick Beard is a PVR for newsgroup users (with limited torrent support). It watch
 <Icon>https://raw.githubusercontent.com/binhex/docker-templates/master/binhex/images/sickbeard-icon.png</Icon>
 <Project>http://sickbeard.com/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

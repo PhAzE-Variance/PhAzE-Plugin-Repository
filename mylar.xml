@@ -13,6 +13,10 @@ Mylar is an automated Comic Book (cbr/cbz) downloader program heavily-based on t
 <Icon>http://i.imgur.com/F3mxSf5.png</Icon>
 <Project>https://github.com/evilhero/mylar</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.22.1
 ------------
 - Fixed error returning to /root when git cloning the install files

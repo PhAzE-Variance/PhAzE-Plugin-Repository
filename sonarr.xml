@@ -13,6 +13,10 @@ Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users. It can moni
 <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sonarr-icon.png</Icon>
 <Project>https://sonarr.tv/</Project>
 <Changes>
+2016.06.16.1
+------------
+- Added SASL dependency for MediaInfo on Unraid 6.2 Beta
+
 2016.05.03.1
 ------------
 - Removed URL encode and decode as they broke the settings page

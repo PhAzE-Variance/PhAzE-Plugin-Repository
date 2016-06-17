@@ -13,6 +13,10 @@ Automatic Video Library Manager for TV Shows. It watches for new episodes of you
 <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sickrage-icon.png</Icon>
 <Project>https://github.com/SickRage/SickRage</Project>
 <Changes>
+2016.06.16.1
+------------
+- Updated curl dependency for Unraid 6.2 Beta
+
 2016.01.23.1
 ------------
 - Changed repo to new repo, which is updated more frequently

@@ -10,7 +10,7 @@
 The Plex Media Server enriches your life by organizing all your personal media, presenting it beautifully and streaming it to all of your devices. It's easy to use, it's awesome, and it's free!
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=33341.0</Support>
-<Icon>http://www.macupdate.com/images/icons256/42311.png</Icon>
+<Icon>https://raw.githubusercontent.com/PhAzE-Variance/AppSupport/master/Plexmediaserver.png</Icon>
 <Project>https://plex.tv/</Project>
 <Changes>
 2016.05.20.1

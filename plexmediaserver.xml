@@ -13,6 +13,10 @@ The Plex Media Server enriches your life by organizing all your personal media, 
 <Icon>https://raw.githubusercontent.com/PhAzE-Variance/AppSupport/master/Plexmediaserver.png</Icon>
 <Project>https://plex.tv/</Project>
 <Changes>
+2016.07.15.1
+------------
+- Updated plex pass version check to acquire proper version using auth token from sign in
+
 2016.06.28.1
 ------------
 - Updated plugin for new web page layout

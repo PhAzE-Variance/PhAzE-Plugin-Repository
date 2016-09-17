@@ -4,7 +4,11 @@
 <PluginURL>https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Couchpotato.plg</PluginURL>
 <PluginAuthor>PhAzE</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>5.0</MinVer>
+<MaxVer>6.2</MaxVer>
 <Category>Downloaders: MediaApp:Video</Category>
+<Date>2016-09-17</Date>
+<License>GPL Licensed</License>
 <Name>CouchPotato</Name>
 <Description>
 CouchPotato (CP) is an automatic NZB and torrent downloader. You can keep a "movies I want"-list and it will search for NZBs/torrents of these movies every X hours. Once a movie is found, it will send it to SABnzbd or download the torrent to a specified directory.
@@ -12,7 +16,18 @@ CouchPotato (CP) is an automatic NZB and torrent downloader. You can keep a "mov
 <Support>http://lime-technology.com/forum/index.php?topic=33341.0</Support>
 <Icon>https://pbs.twimg.com/profile_images/1312317578/square.png</Icon>
 <Project>https://couchpota.to/</Project>
+<DonateText>Buy PhAzE a beer?</DonateText>
+<DonateLink>https://www.paypal.com/ca/cgi-bin/webscr?cmd=_flow&SESSION=koDBpWFzRYxX4ch6tfNiJUEnXZsbhGaZ15AZqWU7AiwSZPCpbBoekgVivz8&dispatch=5885d80a13c0db1f8e263663d3faee8d4fe1dd75ca3bd4f11d72275b28239088</DonateLink>
+<DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
 <Changes>
+2016.09.17.1
+------------
+- Added shortcut from plugins menu to plugin settings page
+
+2016.09.16.1
+------------
+- Updated how branch field is grabbed from github
+
 2016.06.16.1
 ------------
 - Updated curl dependency for Unraid 6.2 Beta

@@ -4,7 +4,11 @@
 <PluginURL>https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Sonarr.plg</PluginURL>
 <PluginAuthor>PhAzE</PluginAuthor>
 <Beta>False</Beta>
+<MinVer>5.0</MinVer>
+<MaxVer>6.2</MaxVer>
 <Category>Downloaders: MediaApp:Video</Category>
+<Date>2016-09-17</Date>
+<License>GPL Licensed</License>
 <Name>Sonarr</Name>
 <Description>
 Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them. It can also be configured to automatically upgrade the quality of files already downloaded when a better quality format becomes available.
@@ -12,7 +16,14 @@ Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users. It can moni
 <Support>http://lime-technology.com/forum/index.php?topic=33341.0</Support>
 <Icon>https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/sonarr-icon.png</Icon>
 <Project>https://sonarr.tv/</Project>
+<DonateText>Buy PhAzE a beer?</DonateText>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=griptionize%40hotmail%2ecom&amp;lc=CA&amp;item_name=PhAzE%20Unraid%20Plugins%20%2d%20Donations&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted]PayPal</DonateLink>
+<DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
 <Changes>
+2016.09.17.1
+------------
+- Added shortcut from plugins menu to plugin settings page
+
 2016.06.16.1
 ------------
 - Added SASL dependency for MediaInfo on Unraid 6.2 Beta

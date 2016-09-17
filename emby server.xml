@@ -4,15 +4,24 @@
 <PluginURL>https://raw.githubusercontent.com/PhAzE-Variance/unRAID/master/Plugins/Embyserver.plg</PluginURL>
 <PluginAuthor>PhAzE</PluginAuthor>
 <Beta>False</Beta>
-<Category>MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
-<Name>Emby Server</Name>
+<MinVer>5.0</MinVer>
+<MaxVer>6.2</MaxVer><Category>MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
+<Date>2016-09-17</Date>
+<License>GPL Licensed</License><Name>Emby Server</Name>
 <Description>
 Emby Server is a home media server built on top of other popular open source technologies such as Service Stack, jQuery, jQuery mobile, and Mono. Bringing together movies, music, television and more in one dazzling interface.
 </Description>
 <Support>http://lime-technology.com/forum/index.php?topic=33341.0</Support>
 <Icon>https://raw.githubusercontent.com/MediaBrowser/Emby.Resources/master/images/Logos/logoicon.png</Icon>
 <Project>https://emby.media/</Project>
+<DonateText>Buy PhAzE a beer?</DonateText>
+<DonateLink>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=griptionize%40hotmail%2ecom&amp;lc=CA&amp;item_name=PhAzE%20Unraid%20Plugins%20%2d%20Donations&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted]PayPal</DonateLink>
+<DonateImage>https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png</DonateImage>
 <Changes>
+2016.09.17.1
+------------
+- Added shortcut from plugins menu to plugin settings page
+
 2016.07.01.1
 ------------
 - Updated new version check to get latest version from the repo/latest tag

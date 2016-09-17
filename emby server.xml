@@ -5,7 +5,7 @@
 <PluginAuthor>PhAzE</PluginAuthor>
 <Beta>False</Beta>
 <MinVer>5.0</MinVer>
-<MaxVer>6.2</MaxVer><Category>MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
+<Category>MediaServer:Video MediaServer:Music MediaServer:Photos</Category>
 <Date>2016-09-17</Date>
 <License>GPL Licensed</License><Name>Emby Server</Name>
 <Description>
